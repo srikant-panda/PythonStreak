@@ -1,0 +1,16 @@
+A class is a bluprint or template for crating objects.
+
+A object is an instance of the class which can use it's properties means methods and all.
+
+Blueprint of a building - class
+
+The actual Building - object
+
+
+______________________________________
+
+Self keyword means    
+    -> it is used to refer to the current instance of the class.
+    -> it is used to access variables that belongs to the class.
+    -> it is used to differentiate between instance variables and local variables.
+    -> it is used to call other methods of the class.

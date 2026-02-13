@@ -1,0 +1,1 @@
+Data Abstraction means hiding internal element to user . user only know the functionality of the element but not the internal working of the element .

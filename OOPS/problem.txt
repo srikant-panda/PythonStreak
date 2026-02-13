@@ -1,0 +1,13 @@
+problems before oops:
+    -> code duplications
+    -> code manupulation
+    -> Data security issues
+    -> poor code reusability
+    -> no real world representation
+
+OOP :- object oriented Progrmming
+
+    -> data
+        -> attributes , etc...
+    -> functions
+        -> methods.etc....

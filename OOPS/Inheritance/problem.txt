@@ -1,0 +1,6 @@
+Using inheritace :
+        -> We can create a new class that is a modified version of an existing class. The new class is called a subclass (or child class), and the existing class is called a superclass (or parent class). The subclass inherits attributes and methods from the superclass, allowing us to reuse code and create more specific classes based on general ones. Inheritance promotes code reusability and establishes a natural hierarchical relationship between classes.
+
+        -> improve code reusability and maintainability by allowing us to create new classes based on existing ones, reducing code duplication and making it easier to manage and update our codebase.
+
+        -> Inheritance also allows us to create a hierarchical structure of classes, where subclasses can further specialize the behavior of their parent classes. This promotes a clear and organized code structure, making it easier to understand and maintain our code.
