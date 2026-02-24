@@ -1,0 +1,12 @@
+what is error handling in python?
+      Error handling in Python refers to the process of anticipating, detecting, and managing errors that may occur during the execution of a program. It allows developers to write code that can gracefully handle exceptions and prevent
+      program crashes. In Python, error handling is typically done using try-except blocks, where you can specify the code that may raise an exception and how to handle it if it occurs. This helps improve the robustness and reliability of your code by allowing you to manage unexpected situations effectively.
+
+
+types of error:
+    1. compile-time errors :- catch the error during compilation
+    2. runtime errors :- occurs during runtime
+    3.logical errors ;- Program runs but do not give the ouptput as developer need
+
+error in software is bugs.
+processe of solve this is debugging 
