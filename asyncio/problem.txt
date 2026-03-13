@@ -1,0 +1,8 @@
+Till this we do task on a sequence mean one by one but now we learn about the concept of concurrency in python. It is a way to run multiple tasks at the same time. 
+
+It is not the same as parallelism, which is the ability to run multiple tasks on multiple processors. Concurrency is a way to run multiple tasks on a single processor by switching between them. This is done by using the asyncio library in python. 
+
+
+The asyncio library provides a way to write concurrent code using the async/await syntax. It allows you to write code that can run multiple tasks concurrently without blocking the main thread.
+
+This is useful for I/O-bound tasks, such as network requests or file I/O, where you can take advantage of the time spent waiting for a response to do other work.
