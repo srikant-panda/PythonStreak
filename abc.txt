@@ -1,0 +1,8 @@
+Write a Python program to count the number of vowels in a string.
+4. Write a Python program to convert a string into uppercase and lowercase.
+5. Write a Python program to count the frequency of characters in a string.
+6. Write a Python program to concatenate two strings.
+7. Write a Python program to create a dictionary and display its keys and values.
+8. Write a Python program to update a value in a dictionary.
+9. Write a Python program to merge two dictionaries.
+10. Write a Python program to check whether a ke
