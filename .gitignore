@@ -8,6 +8,9 @@ __pycache__/
 venv/
 env/
 ENV/
+.my-venv/
+**/venv/
+**/.venv/
 
 # Tooling caches
 .mypy_cache/
